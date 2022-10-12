@@ -1,0 +1,38 @@
+.nav-section{
+background-color: #2b5384;
+color: white;
+}
+
+.nav-section a{
+    font-weight: bolder;
+    font-size: medium;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-section .nav-search-box{
+    background-color: #efeceb;
+    border: none;
+    border-radius: 15px;
+    padding: 3px;
+    width: 400px;
+}
+.banner-section{
+    background: url(../../../public/Images/banner/banner-01.jpg);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    object-fit: cover;
+}
+.intro-section{
+    padding: 170px; 
+}
+.intro-section :first-child{
+    font-weight: bolder;
+}
+.intro-section .second-head{
+    color: #2b5384;
+}
+.intro-section p{
+    font-weight: lighter;
+}

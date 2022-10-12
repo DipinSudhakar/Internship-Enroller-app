@@ -1,0 +1,36 @@
+.add-button-section {
+    padding: 40px;
+    display: flex;
+    justify-content: end;
+  }
+  .add-button {
+    text-decoration: none;
+      color: white;
+      background-color: #27833a;
+      padding: 12px;
+      border-radius: 50px;
+  }
+  .add-button:hover{
+    color: white;
+  }
+  .course-head{
+
+    padding: 20px 180px;
+  }
+  .courseList-content-section{
+    margin-left: 30px;
+  }
+  .courseList-section{
+    padding: 16px 252px;
+  }
+.editIcon{
+  color: blue;
+  padding-right: 2%;
+}
+.delIcon{
+  color: red;
+  border: none;
+  background: none;
+  padding: 0px 10px 138px 5px;
+}
+

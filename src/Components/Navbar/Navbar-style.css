@@ -1,0 +1,24 @@
+.nav-section{
+    background-color: #2b5384;
+    color: white;
+    }
+    
+    .nav-section a{
+        font-weight: bolder;
+        font-size: medium;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    .nav-section a:hover{
+        color: #f0521a;
+    }
+
+    .nav-section .nav-search-box{
+        background-color: #efeceb;
+        border: none;
+        border-radius: 15px;
+        padding: 3px;
+        width: 400px;
+    }
